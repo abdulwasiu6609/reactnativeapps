@@ -26,9 +26,12 @@ const styles = StyleSheet.create({
         marginHorizontal: 20,
         paddingHorizontal: 10,
         borderRadius: 5,
+        
       },
       textInput: {
         flex: 1,
         color: 'white',
+        outline: 'none',
+        border: 0,
       }
 })
